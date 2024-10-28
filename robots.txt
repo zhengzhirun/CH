@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zhengzhirun.github.io/CH/sitemap.xml
